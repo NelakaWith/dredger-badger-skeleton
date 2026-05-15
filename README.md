@@ -1,4 +1,3 @@
-````markdown
 # Dredger Badger (Architectural Preview)
 
 **A generic, production-ready AI-First Scraping & Intelligence Boilerplate.**
@@ -42,7 +41,6 @@ The system cleanly decouples extraction from analytical intelligence by splittin
 ├── pnpm-workspace.yaml# pnpm multi-package workspace allocation
 └── turbo.json        # Turborepo task execution graphs
 ```
-````
 
 ## 📊 Core Data Modeling (Schema Overview)
 
